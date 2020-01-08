@@ -1,0 +1,12 @@
+input{
+    background-color : transparent;
+    border-color: transparent;
+}
+button{
+    border-radius:5px !important;
+}
+
+.save{
+    background: #7db3d6;
+    color: #ffffff;
+}
