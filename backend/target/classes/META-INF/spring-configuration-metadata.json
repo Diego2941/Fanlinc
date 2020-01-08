@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.fanlinc.fanlinc.property.FileStorageProperties",
+      "sourceType": "com.fanlinc.fanlinc.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.fanlinc.fanlinc.property.FileStorageProperties"
+    }
+  ],
+  "hints": []
+}
