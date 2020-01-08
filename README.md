@@ -11,3 +11,4 @@ A web app that provides platform for users to forge meaningful friendship with o
 Big thanks to my teammates for all the hard work and brilliant ideas!
 
 ## Preview
+![UI](Fanlinc/doc/UI.png)
